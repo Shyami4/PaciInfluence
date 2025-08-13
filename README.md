@@ -8,7 +8,7 @@ Our case study is built on Paciolan’s data ecosystem, focusing on how interper
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 The dashboard and analysis demonstrate:
 - **Network graph visualizations** to detect communities and identify high-influence nodes.
 - **Descriptive analytics** on customer engagement patterns.
@@ -34,7 +34,7 @@ This public repo contains **only the Python scripts** and demo video — dataset
 
 ## Features
 - **Community Detection**: Using Louvain algorithm to find tightly-knit groups.
-- **Influencer Scoring**: Ranking nodes based on centrality measures.
+- **Donation Influencer Identification**: Ranking nodes based on centrality measures.
 - **Predictive Modeling**: Classifiers for donation propensity.
 
 ---
