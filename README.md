@@ -37,5 +37,5 @@ This public repo contains **only the Python scripts** and demo video — dataset
 ---
 
 ## 📺 Demo
-[Streamlit Dashboard Demo](demo/dashboard.gif)  
+![Streamlit Dashboard Demo](demo/dashboard.gif)  
 For better quality, watch the full demo video here: [Dashboard Video](demo/dashboard.mp4)
