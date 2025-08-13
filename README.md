@@ -4,7 +4,7 @@
 For better quality, watch the full dashboard demo video here: [Dashboard Video](demo/dashboard.mp4)
 
 This project explores how **Social Network Analysis (SNA)** and **predictive modeling** can be applied to ticketing ecosystems to identify key influencers, uncover community structures, and drive smarter marketing strategies.  
-Our case study is built on Paciolan’s data ecosystem, focusing on how interpersonal connections influence event attendance and donations — particularly in **collegiate sports and community events**, where decisions are rarely made in isolation.
+This case study is built on Paciolan’s data ecosystem, focusing on how interpersonal connections influence event attendance and donations — particularly in **collegiate sports and community events**, where decisions are rarely made in isolation.
 
 ---
 
